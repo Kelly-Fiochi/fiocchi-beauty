@@ -1,0 +1,1 @@
+-- Este projeto nao inclui dados iniciais ficticios.
